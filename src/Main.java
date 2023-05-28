@@ -10,4 +10,3 @@ public class Main {
         // runs the loop that itterares through the string and finds vowels
     }
 }
-}
