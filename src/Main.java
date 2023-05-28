@@ -4,6 +4,7 @@ public class Main {
     import java.io.*;
     public static void main(String[] args) {
         // get string from user
+        System.out.println("this program will count the number of vowels in a string");
         System.out.println("Enter a text: ");
         String userIn = System.console().readLine();
         // runs the loop that itterares through the string and finds vowels
